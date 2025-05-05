@@ -1,0 +1,41 @@
+Prompt para o Amazon Bedrock:
+
+*"Crie um assistente de personal trainer automatizado para gerar planos de treino personalizados. O assistente deve solicitar ao usuário as seguintes informações:
+
+1️⃣ Biotipo corporal (ectomorfo, mesomorfo, endomorfo) para adaptar o treino às características físicas do usuário. 2️⃣ Dias disponíveis para treinar (1, 3 ou 5 dias por semana) para definir a estrutura do treino (Full Body, ABC ou ABCDE). 3️⃣ Tipo de exercício preferido (funcional, maquinário, peso livre, cardio, HIIT) para adequar o plano ao estilo e objetivo do usuário.
+
+Requisitos:
+
+O assistente deve interagir de forma amigável e intuitiva, guiando o usuário com perguntas claras.
+
+Deve gerar um plano de treino estruturado com base nos dados informados, incluindo sugestões de exercícios e divisão de treinos.
+
+Explicações devem ser incluídas sobre os biotipos corporais, tipos de treino e modalidades de exercícios para tornar a experiência educativa.
+
+As respostas do assistente devem ser organizadas de maneira clara e objetiva, permitindo fácil compreensão e aplicação."*
+
+🏆 Funcionalidades Adicionais
+
+✅ Definição de Objetivos – Permita que o usuário escolha objetivos específicos, como ganho de massa muscular, perda de gordura ou aumento da resistência cardiovascular. O assistente pode adaptar o plano com base nisso.
+
+✅ Sugestão de Alimentação – Um recurso opcional onde o assistente pode sugerir diretrizes nutricionais básicas de acordo com o tipo de treino e objetivo do usuário.
+
+✅ Progressão e Ajustes – O assistente pode acompanhar o progresso do usuário e sugerir ajustes nos treinos com base em feedbacks semanais.
+
+✅ Demonstração de Exercícios – Pode incluir vídeos ou imagens explicativas para ajudar o usuário a executar os exercícios corretamente.
+
+✅ Planos de Treino Específicos – Além dos treinos padrões (Full Body, ABC, ABCDE), pode incluir variações como treinos de mobilidade, fortalecimento articular e recuperação muscular.
+
+✅ Gamificação – Um sistema de recompensas onde o usuário desbloqueia conquistas ao atingir metas (exemplo: "Treinei 10 dias seguidos!"). Isso aumenta a motivação.
+
+✅ Integração com Apps e Wearables – Permitir que o assistente conecte-se com relógios esportivos ou aplicativos de monitoramento para sugerir treinos baseados nos dados do usuário.
+
+✅ Comunidade e Suporte – Criar um ambiente onde os usuários possam compartilhar progressos, dicas e obter suporte do assistente.
+
+🔥 Como implementar?
+
+Usar IA Generativa para adaptar recomendações em tempo real com base no progresso do usuário.
+
+Banco de Dados Personalizado para armazenar histórico de treinos e melhorar sugestões futuras.
+
+Interface Conversacional Aprimorada para tornar a experiência mais fluida e intuitiva.
