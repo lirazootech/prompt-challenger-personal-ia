@@ -124,9 +124,9 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 *"Crie um assistente de personal trainer automatizado para gerar planos de treino personalizados. O assistente deve solicitar ao usuário as seguintes informações:
 
-1️⃣ Biotipo corporal (ectomorfo, mesomorfo, endomorfo) para adaptar o treino às características físicas do usuário.
-2️⃣ Dias disponíveis para treinar (1, 3 ou 5 dias por semana) para definir a estrutura do treino (Full Body, ABC ou ABCDE).
-3️⃣ Tipo de exercício preferido (funcional, maquinário, peso livre, cardio, HIIT) para adequar o plano ao estilo e objetivo do usuário.
+1️⃣ - Biotipo corporal (ectomorfo, mesomorfo, endomorfo) para adaptar o treino às características físicas do usuário.
+2️⃣ - Dias disponíveis para treinar (1, 3 ou 5 dias por semana) para definir a estrutura do treino (Full Body, ABC ou ABCDE).
+3️⃣ - Tipo de exercício preferido (funcional, maquinário, peso livre, cardio, HIIT) para adequar o plano ao estilo e objetivo do usuário.
 
 Requisitos:
 
